@@ -1,6 +1,6 @@
 {
-  "_base": "https://raw.githubusercontent.com/tidalcycles/uzu-drumkit/main/",
-  "bd": [
+  "_base": "https://raw.githubusercontent.com/todepond/uzu-drumkit/main/",
+  "uzu_bd": [
     "bd/10_bd_switchangel.wav",
     "bd/11_bd_mot4i.wav",
     "bd/12_bd_mot4i.wav",
@@ -10,67 +10,67 @@
     "bd/16_bd_switchangel.wav",
     "bd/17_bd_switchangel.wav"
   ],
-  "brk": [
+  "uzu_brk": [
     "brk/10_break_amen_pprocessed.wav"
   ],
-  "cb": [
+  "uzu_cb": [
     "cb/10_perc_switchangel.wav"
   ],
-  "cp": [
+  "uzu_cp": [
     "cp/10_cp_switchangel.wav",
     "cp/11_cp_mot4i.wav"
   ],
-  "cr": [
+  "uzu_cr": [
     "cr/10_cr_switchangel.wav",
     "cr/11_cr_mot4i.wav"
   ],
-  "hh": [
+  "uzu_hh": [
     "hh/10_hh_switchangel.wav",
     "hh/11_hh_mot4i.wav",
     "hh/12_hh_switchangel.wav",
     "hh/13_hh_switchangel.wav",
     "hh/14_hh_mot4i.wav"
   ],
-  "ht": [
+  "uzu_ht": [
     "ht/10_ht_mot4i.wav"
   ],
-  "lt": [
+  "uzu_lt": [
     "lt/10_lt_mot4i.wav"
   ],
-  "misc": [
+  "uzu_misc": [
     "misc/10_misc_switchangel_ludens.wav",
     "misc/11_misc_switchangel_ludens.wav",
     "misc/12_misc_switchangel_ludens.wav",
     "misc/13_misc_switchangel_ludens.wav",
     "misc/14_misc_switchangel_ludens.wav"
   ],
-  "mt": [
+  "uzu_mt": [
     "mt/10_mt_mot4i.wav"
   ],
-  "oh": [
+  "uzu_oh": [
     "oh/10_oh_switchangel.wav",
     "oh/11_oh_switchangel.wav",
     "oh/12_oh_switchangel.wav",
     "oh/13_oh_switchangel.wav"
   ],
-  "rd": [
+  "uzu_rd": [
     "rd/10_rd_switchangel.wav"
   ],
-  "rim": [
+  "uzu_rim": [
     "rim/10_rim_switchangel.wav",
     "rim/11_rim_switch_angel.wav"
   ],
-  "sd": [
+  "uzu_sd": [
     "sd/10_sd_switchangel-bounce-2.wav",
     "sd/11_sd_switchangel_3.wav",
     "sd/12_sd_switchangel_2.wav",
     "sd/13_sd_switchangel_2.wav",
     "sd/14_sd.wav"
   ],
-  "sh": [
+  "uzu_sh": [
     "sh/10_sh_switchangel.wav"
   ],
-  "tb": [
+  "uzu_tb": [
     "tb/10_tb.wav"
   ]
 }
